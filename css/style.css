@@ -380,6 +380,7 @@ body {
     font-size: 14px;
     line-height: 22px;
     color: #40a9ff;
+    cursor: pointer;
 }
 
 .modal-footer {
